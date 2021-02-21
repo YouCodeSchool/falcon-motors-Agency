@@ -238,6 +238,7 @@ clickShowItem(window, all, "load");
 clickShowItem(document.querySelector(".all_items"), all, "click");
 clickShowItem(document.querySelector(".motorcycle"), motorcycle, "click");
 clickShowItem(document.querySelector(".cityCar"), city_car, "click");
+clickShowItem(document.querySelector(".compact"), compact, "click");
 clickShowItem(document.querySelector(".sedan"), sedan, "click");
 clickShowItem(document.querySelector(".SUVcar"), SUV, "click");
 clickShowItem(

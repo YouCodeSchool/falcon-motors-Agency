@@ -50,4 +50,6 @@ Reservation (contains an estimate form for the amount to be paid according to th
 
 ## preview my work :
 
-**<a style="text-decoration:underline;" href="#">Click here to show final result</a>**
+**<a style="text-decoration:underline;" href="https://othmanekahtal.github.io/falcon-motors-agency/">Github Pages</a>**
+<br>
+**<a style="text-decoration:underline;" href="https://falcon-motors-agency.netlify.app/">Netlify</a>**
